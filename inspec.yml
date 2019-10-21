@@ -10,8 +10,8 @@ supports:
   platform: os
 depends:
  - name: linuxtests
-   path: '../linuxtests'
+   url: https://github.com/tonyvilliams/linux-baseline/archive/master.zip
  - name: windowstests
-   path: '../windowstests'
+   url: https://github.com/tonyvilliams/windows-baseline/archive/master.zip
  - name: tomcattests
-   path: '../tomcattests'
+   url: https://github.com/tonyvilliams/tomcat-baseline/archive/master.zip
