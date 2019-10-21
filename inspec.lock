@@ -1,0 +1,18 @@
+---
+lockfile_version: 1
+depends:
+- name: linuxtests
+  resolved_source:
+    path: "/home/boppuri/Desktop/chef-complaince/inspec-profiles/linuxtests"
+    sha256: 5ccd4c1480691126402af8d72150597f8882281bf85847f5683470c32653f606
+  version_constraints: []
+- name: windowstests
+  resolved_source:
+    path: "/home/boppuri/Desktop/chef-complaince/inspec-profiles/windowstests"
+    sha256: ab85d7e47a3951046f46aa3cb4be095f176882973ccc24b24ed419c65d5398b2
+  version_constraints: []
+- name: tomcattests
+  resolved_source:
+    path: "/home/boppuri/Desktop/chef-complaince/inspec-profiles/tomcattests"
+    sha256: be396a138f6a36cc62e79a5b2ec14bd94a4435890f3161fc6c2ad128981c81ac
+  version_constraints: []
